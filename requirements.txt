@@ -1,0 +1,13 @@
+psycopg2-binary
+Werkzeug
+bcrypt
+blinker
+cffi
+Click
+Flask
+Flask-Bcrypt
+Flask-SQLAlchemy
+Flask-WTF
+Jinja2
+psycopg2
+
